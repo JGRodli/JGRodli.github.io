@@ -1,0 +1,50 @@
+.fitCont {
+	width: 100%;
+	max-width: 360px;
+}
+
+.vertAlignParent {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+	padding-bottom: 15px;
+}
+
+body {
+	font-size: 14pt;
+}
+
+p {
+	font-size: 12pt;
+}
+
+#header {
+	font-size: 30pt;
+	font-weight: bold;
+}
+
+#headerRow {
+	padding-bottom: 20px;
+}
+
+hr {
+	width: 100%;
+	height: 2px;
+	color: black;
+	background-color: black;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0px;
+	margin-bottom: 0px;
+}
+
+li {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+span.tab{
+    padding: 0 1.5em; /* Or desired space*/
+}
