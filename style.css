@@ -11,7 +11,12 @@
 }
 
 body {
+	font-family: 'Titillium Web', sans-serif;
 	font-size: 14pt;
+}
+
+ul {
+	font-size: 15pt;
 }
 
 p {
